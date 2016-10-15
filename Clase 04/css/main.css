@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline');
+/*body{
+  background-color: black;
+}
+*/
+*{
+  font-family: Arial, Verdana, sans-serif;
+  border: 1px solid black;
+}
+h1{
+  font-family: "Courier New", monospace;
+}
+i{
+  color:green;
+}
+i{ /*Sobreescribe estilo anterior*/
+  color:red;
+}
+b{
+  color: pink;
+}
+p b{
+  color:blue !important;
+}
+p b{
+  color:lime;
+}
+p.principal{
+  font-size: 200%;
+  border: none;
+}
+p{
+  font-size: 75%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ----   */
